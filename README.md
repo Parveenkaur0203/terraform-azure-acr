@@ -13,7 +13,6 @@ This Terraform module provisions an **Azure Container Registry (ACR)**, a manage
 - [Providers](#providers)
 - [Requirements](#requirements)
 - [Notes](#notes)
-- [License](#license)
 
 ---
 
